@@ -15,4 +15,12 @@ public class B {
     public void setB2(float b2) {
         B2 = b2;
     }
+
+    public void MB1(){
+        System.out.println("MB1");
+    }
+
+    public void MB2(){
+        System.out.println("MB2");
+    }
 }

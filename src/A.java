@@ -16,5 +16,13 @@ public class A {
         A2 = a2;
     }
 
+    public void MA1(){
+        System.out.println("MA1");
+    }
+
+    public void MA2(){
+        System.out.println("MA2");
+    }
+
     
 }
